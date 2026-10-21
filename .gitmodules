@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "rinet"]
 	path = rinet
-	url = https://github.com/cran/rinet
+	url = https://github.com/jackgle/rinet_r_package
